@@ -38,7 +38,7 @@ export default function CardBody() {
         </div>
       )}
 
-      {/* Product Image + Info */}
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <div className="flex justify-center">
           <img
@@ -70,8 +70,7 @@ export default function CardBody() {
             )}
           </div>
 
-          {/* Cart Control */}
-          <div className="mt-10">
+          <div className="mt-10 bg-[#019376]">
             {count === 0 ? (
               <button
                 onClick={increase}
