@@ -4,7 +4,7 @@ import Dropdown from "react-bootstrap/Dropdown";
 import Modal from "react-bootstrap/Modal";
 import { CiMicrophoneOn, CiSearch } from "react-icons/ci";
 import { IoBag } from "react-icons/io5";
-import image from "../assets/logo-new.webp";
+import image from "../assets/Logo-new.webp";
 import { UserContext } from "./Contextapi/contextapi";
 
 export default function Navbar() {
