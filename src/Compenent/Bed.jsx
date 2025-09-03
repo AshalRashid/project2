@@ -13,13 +13,11 @@ export default function BedGrid() {
             id: 1,
             name: "Ash double bed",
             price: 350,
-            // oldPrice: 800,
-            // discount: "10%",
             image: image1,
         },
         {
             id: 2,
-            name: "Brown Hardwood Double bed",
+            name: "Brown Hardwood  bed",
             price: 220,
             oldPrice: 250,
             discount: "12%",
@@ -27,7 +25,7 @@ export default function BedGrid() {
         },
         {
             id: 3,
-            name: "Delux Mahagony Double bed",
+            name: "Delux Mahagony  bed",
             price: 400,
             image: image3,
         },
@@ -41,7 +39,7 @@ export default function BedGrid() {
         },
         {
             id: 5,
-            name: "Partex Coushoned Double bed",
+            name: "Partex Coushoned bed",
             price: 250,
             oldPrice: 300,
             discount: "13%",
@@ -49,7 +47,7 @@ export default function BedGrid() {
         },
         {
             id: 6,
-            name: "Vince ottaman Double bed",
+            name: "Vince ottaman bed",
             price: 250,
             oldPrice: 300,
             discount: "12%",

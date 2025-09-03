@@ -6,7 +6,7 @@ import Sidebar from "../Sidebar";
 export default function Layout() {
   return (
     <div className="flex bg-gray-100 min-h-screen">
-      {/* Sidebar */}
+      
       <div className="sidebar ">
         <Sidebar />
       </div>
