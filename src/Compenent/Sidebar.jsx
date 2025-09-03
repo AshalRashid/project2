@@ -1,4 +1,4 @@
-import { FaBed, FaChair, FaCouch, FaTable } from "react-icons/fa";
+import { FaBed, FaChair, FaCouch, FaTable } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 import ProductGrid from "./Card";
 import { CiHome } from "react-icons/ci";
